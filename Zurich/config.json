@@ -1,0 +1,9 @@
+[
+    {
+        "seguradora": "Zurich",
+        "linhas": ["0-linha branca"],
+        "linhas_id": ["64", "1", "80", "71"],
+        "produto_id": ["9", "9", "8", "101", "101", "8"],
+        "opcoes": ["0-Conserto", "1 - Moveis", " 2 - Fast Shop", "3 - Flat"]
+    }
+]
